@@ -1,0 +1,6 @@
+@MMInvoice_API_HostAddress = http://localhost:5135
+
+GET {{MMInvoice_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
